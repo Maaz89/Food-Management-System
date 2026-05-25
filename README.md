@@ -13,12 +13,14 @@ Order History Tracking
 Payment Simulation
 BST-Based Food Storage
 Linked List Implementation for Logs & History
+
 Technologies Used
 C++
 Object-Oriented Programming (OOP)
 Binary Search Trees (BST)
 Linked Lists
 Data Structures & Algorithms
+
 Project Highlights
 Efficient food searching and management using BST
 Real-time inventory and sales tracking
