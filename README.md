@@ -5,6 +5,7 @@ A console-based Food Management System developed in C++ using Object-Oriented Pr
 The system uses Binary Search Trees (BST) for efficient food item storage and searching, and Linked Lists for maintaining order history and admin activity logs. It demonstrates practical implementation of inventory handling, recursion, authentication, sales tracking, and dynamic data management.
 
 Features
+
 Customer Food Ordering System
 Admin Login & Management Panel
 Inventory and Stock Management
@@ -15,6 +16,7 @@ BST-Based Food Storage
 Linked List Implementation for Logs & History
 
 Technologies Used
+
 C++
 Object-Oriented Programming (OOP)
 Binary Search Trees (BST)
@@ -22,6 +24,7 @@ Linked Lists
 Data Structures & Algorithms
 
 Project Highlights
+
 Efficient food searching and management using BST
 Real-time inventory and sales tracking
 Modular and object-oriented code structure
